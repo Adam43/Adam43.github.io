@@ -1,0 +1,13 @@
+Bootstrap About
+
+For those wanting to know about an interesting framework, then look no further, let me introduce you to bootstrap. Bootstrap is a CSS framework which allows you to build fast and reponsive webistes. Bootstrap has always been a top choice for web developers trying to utilize a powerful framework. It has responsive grids, images, tons of components, and it uses Jquery plugins. All these features will allow the developer to create stunning websites at a faster rate while still maintaining a high level of functionality. Now that Bootstrap is on version 5 it is even more powerful being able to utalize a lot more CSS variables than ever before, keeping it simented as one of the leading CSS framework.
+
+
+To get started with bootstrap, you can either install it via package manager or a CDN (content delivery network). Once Bootstrap is installed you can dive more into its features by exporing the Bootstrap community or its documentation. Being that Bootstrap has a big community you can rest assured that there's loads of info in their documentation as well as information you can find just by making a quick search. In conclusion, bootstrap is an amazing tools that can help web developers launch a website without having to code from scratch which makes creating a website start to finish a lot easier.
+
+
+
+
+References
+source1: https://getbootstrap.com/
+source2: https://careerfoundry.com/en/blog/web-development/what-is-bootstrap-a-beginners-guide/
